@@ -1,0 +1,23 @@
+{
+    "slug": "online",
+    "title": "Cursos en línea",
+    "description": "Cursos finalizados en plataformas de educación en internet",
+    "items": [
+        {
+            "name": "Curso profesional de PHP",
+            "url": "https://codigofacilito.com/cursos/php-profesional"
+        },
+        {
+            "name": "Pruebas unitarias con PHP",
+            "url": "https://codigofacilito.com/cursos/php-testing"
+        },
+        {
+            "name": "Curso Profesional de JavaScript",
+            "url": "https://codigofacilito.com/cursos/javascript-profesional"
+        },
+        {
+            "name": "Crea un sitio personal con Gatsby",
+            "url": "https://codigofacilito.com/cursos/sitio-persional-gatsby"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "slug": "presencial",
+    "title": "Formación académica",
+    "description": "Instituciones a las que asistí",
+    "items": [
+        {
+            "name": "Universidad Nacional de La Matanza",
+            "degree": "Ing. en Informática"
+        }
+    ]
+}
